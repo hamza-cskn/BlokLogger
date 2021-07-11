@@ -1,0 +1,5 @@
+name: BlokLogger
+main: mc.obliviate.bloklogger.BlokLogger
+version: 1.0.0
+author: Mr_Obliviate
+description: Advanced log supervisior plugin.
